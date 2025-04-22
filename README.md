@@ -26,7 +26,7 @@ View the current version of the site (still with placeholder content):
 - **CSS3**: Styling and responsive layout.
 - **FontAwesome**: Icons used throughout the site.
 - **HTML5 UP - Forty Theme**: The base template for this website.
-- **Formspree **: Handling contact form submission.
+- **Formspree**: Handling contact form submission.
 
 ---
 
