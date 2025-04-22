@@ -72,10 +72,5 @@ Feel free to reach out:
 - **HTML5 UP** for the Forty theme.
 - **FontAwesome** for icons used throughout the site.
 
----
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
